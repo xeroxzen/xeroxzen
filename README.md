@@ -1,6 +1,7 @@
 ### Hello there 👋 I am Andile Jaden
 
-image:https://img.shields.io/github/followers/xeroxzen?style=social[GitHub followers]
+![GitHub followers](https://img.shields.io/github/followers/xeroxzen?style=social)
+
 I go by many names, my friends call me Google Jr because of the quantity of information I have lodged in my head. My hacker name is xeroxzen. I love code more than sharks love blood. 
 
 I have diverse interests in code and tech holistically. Initially what brought me to this field is the belief that a lot of good can be done in the world using software. I also would like to think I have innately always been an engineer my whole life, I have been tinkering with metal scraps and breaking toys way before I could write my name.
