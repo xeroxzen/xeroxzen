@@ -1,6 +1,6 @@
 ### Hello there 👋 I am Andile Jaden
 
-![GitHub followers](https://img.shields.io/github/followers/xeroxzen?logo=GitHub&logoColor=black)
+![GitHub followers](https://img.shields.io/github/followers/xeroxzen?logo=GitHub&logoColor=black) ![GitHub User's stars](https://img.shields.io/github/stars/xeroxzen?affiliations=OWNER&label=GitHub%20Stars&logo=GitHub&logoColor=black) ![Twitter Follow](https://img.shields.io/twitter/follow/andilejaden?color=success&logo=twitter&style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/xeroxzen/100DaysOfCode?logo=JavaScript) ![PyPI - Downloads](https://img.shields.io/pypi/dd/pycountrycode?color=success&logo=pypi) ![PyPI - License](https://img.shields.io/pypi/l/genuine-fake?label=Genuine%20Fake&logo=Pypi) ![PyPI](https://img.shields.io/pypi/v/genuine-fake?label=Genuine%20Fake&logo=PYPI) ![PyPI](https://img.shields.io/pypi/v/pycountrycode?label=Pycountrycode&logo=PYPI)
 
 I go by many names, my friends call me Google Jr because of the quantity of information I have lodged in my head. My hacker name is xeroxzen. I love code more than sharks love blood. 
 
