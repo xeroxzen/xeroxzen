@@ -16,3 +16,15 @@ I have diverse interests in code and tech holistically. Initially what brought m
 
 ### Toolbox
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-plain.svg" alt="JetBrains" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
