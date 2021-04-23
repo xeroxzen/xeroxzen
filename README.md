@@ -14,6 +14,16 @@ Nobody truly understood his change of course, they all thought it was cry for he
 
 Today he is a software engineer for a tech start-up where he is the Lead Developer. He got to where he is through hardwork, sleepless nights and unparalled passion. He started at the company as an intern and because of his hunger and drive to grow he was asked to join the company's developer's team on a permanent contract. He is also at school where he is studying Computer Science, he is doing his 4th and last year.
 
+### Past Projects
+1. Genuine Fake
+2. Pycountrycode
+3. Blogger
+4. Prohealthnet
+5. NangoZim
+6. Victoria Falls Municipality
+7. City Link Luxury Coaches
+8. Extra City Luxury Coaches
+
 ### Industries interested to work in!
 1. Technology
 2. Healthcare
