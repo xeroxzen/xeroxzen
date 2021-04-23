@@ -14,6 +14,9 @@ Nobody truly understood his change of course, they all thought it was cry for he
 
 Today he is a software engineer for a tech start-up where he is the Lead Developer. He got to where he is through hardwork, sleepless nights and unparalled passion. He started at the company as an intern and because of his hunger and drive to grow he was asked to join the company's developer's team on a permanent contract. He is also at school where he is studying Computer Science, he is doing his 4th and last year.
 
+### Most grateful for!
+There are quite a lot of things he is grateful for but what ranks highly to him are the networks he has navigated for himself. He is grateful to people like <a href="https://vuyisile.com/">Vuyisile Ndlovu</a> who served as the go to person when he got on this path and the one person who got him to love Python. He is most grateful to <a href="https://erickhumalo.com/">Eric Khumalo</a> and <a href="https://emziniwecode">EmziniWeCode</a> who have pushed him thus far and always believed in him. 
+
 ### Recent Projects
 1. <a href="https://pypi.org/project/Genuine-fake/">Genuine Fake</a>
 2. <a href="https://pypi.org/project/pycountrycode/">Pycountrycode</a>
