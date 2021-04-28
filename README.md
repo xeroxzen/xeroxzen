@@ -48,7 +48,7 @@ There are quite a lot of things he is grateful for but what ranks highly to him 
 10. Fighter Jets notably the Lockheed Martin F-22 Raptor, Lockheed Martin F-35 Lightning II and of course the Sukhoi Su-57
 11. Chess
 12. Sight-seeing
-13. He loves love hackathons
+13. He loves hackathons
 
 ### Key Competences
 
