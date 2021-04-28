@@ -34,6 +34,7 @@ There are quite a lot of things he is grateful for but what ranks highly to him 
 4. AgTech
 5. Rocket Engineering
 6. Research & Development
+7. Energy Generation
 
 ### Hobbies & Interests
 1. Reading (He reads 30 books a year)
