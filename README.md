@@ -41,7 +41,7 @@ There are quite a lot of things he is grateful for but what ranks highly to him 
 2. Resume Design (Side hustle)
 3. Story-telling, he also writes poetry when feeling down.
 4. Teaching (He is a TA for <a href="https://www.emziniwecode.com/">EmziniWeCode</a>)
-5. Rocket Science (Ask him anything about Falcon 9, Falcon Heavy, Starship, Dragon, New Glen, New Sherpard, Delta IV Heavy)
+5. Rocket Science (Ask him anything about Falcon 9, Falcon Heavy, Starship, Dragon, New Glen, New Sherpard, Delta IV Heavy) and Space
 6. Healthcare and fitness fanatic (Has a BMI of 19.3)
 7. Hacktivism (Data & Privacy Rights, Climate Change & Environment, Equal Rights)
 8. Charitable causes & community service
@@ -51,6 +51,7 @@ There are quite a lot of things he is grateful for but what ranks highly to him 
 12. Sight-seeing
 13. He loves hackathons
 14. Cycling (He rides a Raleigh)
+15. Building stuff
 
 ### Key Competences
 
