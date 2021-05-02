@@ -50,6 +50,7 @@ There are quite a lot of things he is grateful for but what ranks highly to him 
 11. Chess
 12. Sight-seeing
 13. He loves hackathons
+14. Cycling (He rides a Raleigh)
 
 ### Key Competences
 
