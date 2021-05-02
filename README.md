@@ -46,7 +46,7 @@ There are quite a lot of things he is grateful for but what ranks highly to him 
 7. Hacktivism (Data & Privacy Rights, Climate Change & Environment, Equal Rights)
 8. Charitable causes & community service
 9. Business & Entrepreneurship (<a href="http://actinafrica.com/">ACT In Africa</a> & Startup Weekend can attest to that)
-10. Fighter Jets notably the Lockheed Martin F-22 Raptor, Lockheed Martin F-35 Lightning II and of course the Sukhoi Su-57
+10. Fighter Jets notably the Lockheed Martin F-22 Raptor, Lockheed Martin F-35 Lightning II and of course the Russian Sukhoi Su-57
 11. Chess
 12. Sight-seeing
 13. He loves hackathons
