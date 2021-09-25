@@ -60,3 +60,4 @@ There are quite a lot of things he is grateful for but what ranks highly to him 
 ### Stats
 <img src="https://wakatime.com/badge/github/xeroxzen/VueJS-Task-Tracker.svg" alt="wakatime" />
 <figure><img src="https://wakatime.com/share/@xeroxzen/b0a7eb5a-ba75-49d5-8076-1ddd61cd528b.svg" alt="Statistics Table" width="300" height="300" /></figure>
+<figure><img src="https://wakatime.com/share/@xeroxzen/ffc6c3ab-4995-4c23-8b95-e7b7970c0684.svg" /></figure>
