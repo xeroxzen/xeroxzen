@@ -2,18 +2,22 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/xeroxzen?logo=GitHub&logoColor=black) ![GitHub User's stars](https://img.shields.io/github/stars/xeroxzen?affiliations=OWNER&label=GitHub%20Stars&logo=GitHub&logoColor=black) ![Twitter Follow](https://img.shields.io/twitter/follow/andilejaden?color=success&logo=twitter&style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/xeroxzen/100DaysOfCode?logo=JavaScript) ![PyPI - Downloads](https://img.shields.io/pypi/dd/pycountrycode?color=success&logo=pypi) ![PyPI - License](https://img.shields.io/pypi/l/genuine-fake?label=Genuine%20Fake&logo=Pypi) ![PyPI](https://img.shields.io/pypi/v/genuine-fake?label=Genuine%20Fake&logo=PYPI) ![PyPI](https://img.shields.io/pypi/v/pycountrycode?label=Pycountrycode&logo=PYPI) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xeroxzen/blogger?logo=github) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xeroxzen/genuine-fake?logo=github) ![GitHub top language](https://img.shields.io/github/languages/top/xeroxzen/genuine-fake?label=Python&logo=python&logoColor=yellow)
 
-### Who is Andile?
-Andile is a phenomenon young man with lots of passion and ambition and an unparalled drive to excel in everything he does. Amongst his peers he's affectionately known as Google Jr because of his intellect, and drive to absorb everything he learns. The way he sees things and how he knows so many things in many fields and at the same time is able to recall them without difficulty. He is a natural born problem solver and engineer at heart.
-
-### How he got here?
-After completing High School most assumed he would be heading to University to study Law or Political Science because those around him saw a debater, someone full of ideas that would be better used towards community and public policy development. 
-
-What everyone didn't know was that in April of 2016, the last year of his High School he found his calling, code. Whilst attending a Scholastica Career Guidance workshop at the Zimbabwe International Trade Fair he finally discovered what he wanted to do and where he fit in. From that day onwards he only wanted to write code and be a damn good Software Engineer.
-
-Nobody truly understood his change of course, they all thought it was cry for help, lack of proper guidance and many other demoralizing things. He never faltered, he finished High School and he began reading coding books encompassing Python, C#, C and Perl. He read coding books and did the tutorials with pen and paper. It wasn't until August 2017 he finally got a laptop for one purpose alone, to write code. He named the laptop Sasha.
+# Who am I
+    
+I’m a Teaching Assistant at Emzini We Code, where I have been assisting students in writing clean code following the standards of colleges such as UC Berkeley, MIT and Stanford.
+    
+My background is in Information Technology with emphasis in Software  Engineering. I spent the last four years of college working at startups, hacking it at hackathons, teaching code and building my own portfolio. I also tried to launch not one, but three startups of my own.
+    
+I only recently finished College, and I have always wanted or desired to work as a developer for startups that are working on amazing problems. I am drawn to startups because of their iterative approach to development. 
+    
+My coding instructor Eric Khumalo who founded Emzini We Code bootcamp whilst working as an Intern at Twitter recruited me to work with him as a Teaching Assistant for Emzini We Code classes. The idea behind Emzini We Code is to export Silicon Valley engineering expertise as it is done in US colleges such as UC Berkeley, MIT and Stanford to Africa. My instructor and mentor did his undergrad at UC Berkeley in Data Science. Here, I assist students in understanding coding paradigms, program interpretation, algorithmic thinking and problem solving using code. 
+    
+Outside of work I participate in hackathons - mostly doing web app and Conversational AI development as a way to learn it more deeply. I also tutor programming to College students preparing for their exams, mainly in C++, Python and JavaScript. I’m also a mentor to a few coding enthusiasts who marvel at my journey.
+    
+I’m now looking for something new, a grander challenge. I’ve always loved connection with a product end user, and I really want to get involved in smaller environments too.
 
 ### Most grateful for!
-There are quite a lot of things he is grateful for but what ranks highly to him are the networks he has navigated for himself. He is grateful to people like his mother, his uncle <b>Mangosuthu Mbele</b> who is his mentor, <a href="https://vuyisile.com/">Vuyisile Ndlovu</a> who served as the go to person when he got on this path and the one person who got him to love Python. He is most grateful to <a href="https://erickhumalo.com/">Eric Khumalo</a> and <a href="https://emziniwecode">EmziniWeCode</a> who have pushed him thus far and always believed in him. 
+I owe the success of my insightful journey in Tech to quite a number of people who have helped me in so many ways. I cannot mention them all, however I will have to give a shoutout to my mother who gave me her entire August 2017 salary so I can buy myself a laptop and start writing code, my uncle <b>Mangosuthu Mbele</b> who is my mentor, <a href="https://vuyisile.com/">Vuyisile Ndlovu</a>, the mentor who has served as the go to person whenever I needed some guidance, the guiding hand ever since I got in tech and my biggest influence on why I love Python. I am forever grateful to <a href="https://erickhumalo.com/">Eric Khumalo</a> and <a href="https://emziniwecode">EmziniWeCode</a> who have pushed me thus far. I am eternally grateful for the friends I have made through Emzini We Code.  
 
 ### Recent Projects
 1. <a href="https://pypi.org/project/Genuine-fake/">Genuine Fake</a>
@@ -35,21 +39,22 @@ There are quite a lot of things he is grateful for but what ranks highly to him 
 7. Energy Generation
 
 ### Hobbies & Interests
-1. Reading (He reads 30 books a year)
-2. Resume Design (Side hustle)
-3. Story-telling, he also writes poetry when feeling down.
+1. Reading ~ I read about 30 books a year
+2. Resume Design
+3. Is analysis a hobby? Yeah that's me
 4. Teaching (He is a TA for <a href="https://www.emziniwecode.com/">EmziniWeCode</a>)
-5. Rocket Science (Ask him anything about Falcon 9, Falcon Heavy, Starship, Dragon, New Glen, New Sherpard, Delta IV Heavy) and Space
-6. Healthcare and fitness fanatic (Has a BMI of 19.3)
-7. Hacktivism (Data & Privacy Rights, Climate Change & Environment, Equal Rights)
+5. Rocket Science ~ Ask me anything about Falcon 9, Falcon Heavy, Starship, Dragon, New Glen, New Sherpard, Delta IV Heavy) and Space.
+6. Healthcare and fitness fanatic ~ BMI of 19.3
+7. Hacktivism ~ Data & Privacy Rights, Climate Change & Environment, Equal Rights
 8. Charitable causes & community service
 9. Business & Entrepreneurship (<a href="http://actinafrica.com/">ACT In Africa</a> & Startup Weekend can attest to that)
 10. Fighter Jets notably the Lockheed Martin F-22 Raptor, Lockheed Martin F-35 Lightning II and of course the Russian Sukhoi Su-57
 11. Chess
 12. Sight-seeing
-13. He loves hackathons
-14. Cycling (He rides a Ricline)
-15. Building stuff
+13. I love hackathons
+14. I cycle
+15. I run 5km three days in a week.
+16. Building stuff
 
 ### Key Competences
 
