@@ -56,7 +56,7 @@ I owe the success of my insightful journey in Tech to quite a number of people w
 15. I run 5km three days in a week.
 16. Building stuff
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xeroxzen&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xeroxzen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Key Competences
 
