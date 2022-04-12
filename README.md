@@ -1,4 +1,4 @@
-                                                         # Hello there 👋 Andile Jaden here
+# Hello there 👋 Andile Jaden here
 
 ![GitHub followers](https://img.shields.io/github/followers/xeroxzen?logo=GitHub&logoColor=black) ![GitHub User's stars](https://img.shields.io/github/stars/xeroxzen?affiliations=OWNER&label=GitHub%20Stars&logo=GitHub&logoColor=black) ![Twitter Follow](https://img.shields.io/twitter/follow/andilejaden?color=success&logo=twitter&style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/xeroxzen/100DaysOfCode?logo=JavaScript) ![PyPI - Downloads](https://img.shields.io/pypi/dd/pycountrycode?color=success&logo=pypi) ![PyPI - License](https://img.shields.io/pypi/l/genuine-fake?label=Genuine%20Fake&logo=Pypi) ![PyPI](https://img.shields.io/pypi/v/genuine-fake?label=Genuine%20Fake&logo=PYPI) ![PyPI](https://img.shields.io/pypi/v/pycountrycode?label=Pycountrycode&logo=PYPI) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xeroxzen/blogger?logo=github) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xeroxzen/genuine-fake?logo=github) ![GitHub top language](https://img.shields.io/github/languages/top/xeroxzen/genuine-fake?label=Python&logo=python&logoColor=yellow)
 
@@ -56,7 +56,7 @@ I owe the success of my insightful journey in Tech to quite a number of people w
 15. I run 5km three days in a week.
 16. Building stuff
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xeroxzen)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xeroxzen&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Key Competences
 
