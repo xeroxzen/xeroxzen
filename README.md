@@ -57,10 +57,10 @@ I owe the success of my insightful journey in Tech to quite a number of people w
 16. Building stuff
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="(http://github-readme-streak-stats.herokuapp.com?user=xeroxzen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=xeroxzen&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xeroxzen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
