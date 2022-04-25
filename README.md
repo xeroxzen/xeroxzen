@@ -42,7 +42,7 @@ I owe the success of my insightful journey in Tech to quite a number of people w
 1. Reading ~ I read about 30 books a year
 2. Resume Design
 3. Is analysis a hobby? Yeah that's me
-4. Teaching (He is a TA for <a href="https://www.emziniwecode.com/">EmziniWeCode</a>)
+4. Teaching (I am a TA for <a href="https://www.emziniwecode.com/">EmziniWeCode</a>)
 5. Rocket Science ~ Ask me anything about Falcon 9, Falcon Heavy, Starship, Dragon, New Glen, New Sherpard, Delta IV Heavy) and Space.
 6. Healthcare and fitness fanatic ~ BMI of 19.3
 7. Hacktivism ~ Data & Privacy Rights, Climate Change & Environment, Equal Rights
