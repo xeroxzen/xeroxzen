@@ -30,6 +30,7 @@ I owe the success of my insightful journey in Tech to quite a number of people w
 6. <a href="https://t.me/VictoriaFallsMascotBot">Victoria Falls Municipality</a>
 7. <a href="https://t.me/TravellexBot">City Link Luxury Coaches</a>
 8. <a href="https://t.me/ExtraCityBot">Extra City Luxury Coaches</a>
+9. <a href="https://www.uristic.co.zw/">Uristic Technologies</a>
 
 ### Industries interested to work in!
 1. Technology
