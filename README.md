@@ -4,13 +4,15 @@
 
 # Who am I
     
-I’m a Teaching Assistant at Emzini We Code, where I have been assisting students in writing clean code following the standards of colleges such as UC Berkeley, MIT and Stanford.
+I'm a founder and CEO of a little known start-up, QuStack. I’m also a Teaching Assistant at Emzini We Code, where I assist students in writing clean code following the standards of colleges such as UC Berkeley, MIT and Stanford.
     
 My background is in Information Technology with emphasis in Software  Engineering. I spent the last four years of college working at startups, hacking it at hackathons, teaching code and building my own portfolio. I also tried to launch not one, but three startups of my own.
     
-I only recently finished College, and I have always wanted or desired to work as a developer for startups that are working on amazing problems. I am drawn to startups because of their iterative approach to development. 
+It's been a few months since I finished College, and I have always wanted and desired to work as a developer for startups that are working on amazing problems. I am drawn to startups because of their iterative approach to development. 
     
-My coding instructor Eric Khumalo who founded Emzini We Code bootcamp whilst working as an Intern at Twitter recruited me to work with him as a Teaching Assistant for Emzini We Code classes. The idea behind Emzini We Code is to export Silicon Valley engineering expertise as it is done in US colleges such as UC Berkeley, MIT and Stanford to Africa. My instructor and mentor did his undergrad at UC Berkeley in Data Science. Here, I assist students in understanding coding paradigms, program interpretation, algorithmic thinking and problem solving using code. 
+My coding mentor Eric Khumalo who founded Emzini We Code bootcamp whilst working at Twitter brought me onboard as a Teaching Assistant for Emzini We Code. The idea behind Emzini We Code is to export Silicon Valley engineering expertise as it is done in US colleges such as UC Berkeley, MIT and Stanford to Africa. My mentor did his undergrad at UC Berkeley in Data Science. Here, I assist students in understanding coding paradigms, program interpretation, algorithmic thinking and problem solving using code. 
+
+Ever since I was in High School I knew that some day I want to run my own company centred around solving some of Africa's and World's most pertinent problems spanning healthcare, food security, energy distribution, finance and social inequality, hence the founding of QuStack. Currently QuStack is developing a conversational AI chatbot for the medical and healthcare industry. We have secured $20, 000 in funding for the development of the prototype.
     
 Outside of work I participate in hackathons - mostly doing web app and Conversational AI development as a way to learn it more deeply. I also tutor programming to College students preparing for their exams, mainly in C++, Python and JavaScript. I’m also a mentor to a few coding enthusiasts who marvel at my journey.
     
