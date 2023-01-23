@@ -4,17 +4,19 @@
 
 # Who am I
     
-First and foremost I am a problem solver, a software engineer by passion and training. I'm a founder and CEO of a little known tech start-up, QuStack, Inc. I’m also a Teaching Assistant at Emzini We Code, where I assist students in writing clean code following the standards of universities such as UC Berkeley, MIT and Stanford.
-    
-My background is in Information Technology with emphasis in Software  Engineering. I spent the last four years of college working for startups developing different types of applications ranging from web apps and web APIs for medical insurance companies, to building solutions for city management, hacking it at hackathons, teaching code and building my own portfolio as a software developer. I also tried to launch not one, but two startups of my own with QuStack being the third. 
-    
-My coding mentor Eric Khumalo who founded Emzini We Code bootcamp whilst working at Twitter brought me onboard as a Teaching Assistant for Emzini We Code. The idea behind Emzini We Code is to export Silicon Valley engineering expertise as it is done in US colleges such as UC Berkeley, MIT and Stanford to Africa. Here, I assist students in understanding coding paradigms, program interpretation, algorithmic thinking and problem solving using code. Lately what keeps me busy is building solutions for the healthcare industry under the start-up I co-founded.
+First and foremost I am a problem solver and an engineer second. I'm the founder and CEO of a little-known tech start-up, QuStack, Inc. I’m also a Teaching Assistant at Emzini We Code, where I assist students in writing clean code following the standards of universities such as UC Berkeley, MIT, and Stanford.
 
-Ever since I was in High School I knew that some day I want to run my own company centred around solving some of Africa's and World's most pertinent problems spanning healthcare, food security, energy distribution, finance and social inequality, hence the founding of QuStack. Currently QuStack is developing a conversational AI chatbot for the medical and healthcare industry.
+I am also a Data Engineer for Prescient, a risk management and intelligence services firm based in Chicago, Illinois, USA. 
     
-Outside of work I participate in hackathons and contests - mostly doing web apps and Conversational AI development as a way to learn it more deeply. I tutor programming to College students preparing for their exams, mainly in C++, Python and JavaScript. I’m also a mentor to a few coding enthusiasts who marvel at my journey.
+My background is in Information Technology with an emphasis on Software  Engineering. I spent my four years of college working for startups developing different types of applications ranging from web apps and web APIs for medical insurance companies, to building solutions for city management, hacking it at hackathons, teaching code, and building my own portfolio as a software developer. I also tried to launch not one, but two startups of my own with QuStack being the third. 
     
-I’m now looking for a new challenge, a grander challenge. I’ve always loved connection with a product end user, and I really want to get involved in smaller environments too.
+My coding mentor Eric Khumalo who founded Emzini We Code while working at Twitter brought me on board as a Teaching Assistant for Emzini We Code. The idea behind Emzini We Code is to export Silicon Valley engineering expertise as it is done in US colleges such as UC Berkeley, MIT, and Stanford to Africa. Here, I assist students in understanding coding paradigms, program interpretation, algorithmic thinking, and problem-solving using code. 
+
+Lately, working on data engineering problems has kept me occupied alongside building solutions for the healthcare industry under the start-up I co-founded.
+    
+Outside of work, I participate in hackathons and contests - mostly doing web apps and Conversational AI development as a way to learn it more deeply. I tutor programming to College students preparing for their exams, mainly in C++, Python, and JavaScript. I’m also a mentor to a few coding enthusiasts who marvel at my journey. I am looking forward to being a budding conference speaker.
+    
+If you find my story interesting enough and you’d like to connect for collaboration, don’t hesitate to reach out.
 
 ### Most grateful for!
 I owe the success of my insightful journey in Tech to quite a number of people who have helped me in so many ways. I cannot mention them all, however I will have to give a shoutout to my mother who gave me her entire August 2017 salary so I can buy myself a laptop and start writing code, my uncle <b>Mangosuthu Mbele</b> who is my mentor, <a href="https://vuyisile.com/">Vuyisile Ndlovu</a>, the mentor who has served as the go to person whenever I needed some guidance, the guiding hand ever since I got in tech and my biggest influence on why I love Python. I am forever grateful to <a href="https://erickhumalo.com/">Eric Khumalo</a> and <a href="https://emziniwecode">EmziniWeCode</a> who have pushed me thus far. I am eternally grateful for the friends I have made through Emzini We Code.  
