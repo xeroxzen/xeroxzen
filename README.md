@@ -40,6 +40,7 @@ I owe the success of my insightful journey in Tech to quite a number of people w
 5. Rocket Engineering
 6. Research & Development
 7. Energy Generation
+8. Intelligence services
 
 ### Hobbies & Interests
 1. Reading ~ I read about 30 books a year
