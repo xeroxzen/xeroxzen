@@ -10,7 +10,7 @@ I am also a Data Engineer for Prescient, a risk management and intelligence serv
     
 My background is in Information Technology with an emphasis on Software  Engineering. I spent my four years of college working for startups developing different types of applications ranging from web apps and web APIs for medical insurance companies, to building solutions for city management, hacking it at hackathons, teaching code, and building my own portfolio as a software developer. I also tried to launch not one, but two startups of my own with QuStack being the third. 
     
-My coding mentor Eric Khumalo who founded Emzini We Code while working at Twitter brought me on board as a Teaching Assistant for Emzini We Code. The idea behind Emzini We Code is to export Silicon Valley engineering expertise as it is done in US colleges such as UC Berkeley, MIT, and Stanford to Africa. Here, I assist students in understanding coding paradigms, program interpretation, algorithmic thinking, and problem-solving using code. 
+My mentor Eric Khumalo who founded Emzini We Code while working at Twitter brought me on board as a Teaching Assistant for Emzini We Code. The idea behind Emzini We Code is to export Silicon Valley engineering expertise as it is done in US colleges such as UC Berkeley, MIT, and Stanford to Africa. Here, I assist students in understanding coding paradigms, program interpretation, algorithmic thinking, and problem-solving using code. 
 
 Lately, working on data engineering problems has kept me occupied alongside building solutions for the healthcare industry under the start-up I co-founded.
     
