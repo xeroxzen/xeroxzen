@@ -57,9 +57,8 @@ I owe the success of my insightful journey in Tech to several people who have he
 17. F1
 18. Writing and journaling. Check <a href="https://medium.com/@andilejaden">here</a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xeroxzen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xeroxzen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
-[![Andile Jaden Mbele's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeroxzen&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Andile's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeroxzen&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeroxzen&count_private=true&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![xeroxzen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xeroxzen&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
