@@ -42,23 +42,24 @@ I owe the success of my insightful journey in Tech to several people who have he
 ### Hobbies & Interests
 1. Reading ~ I read about 30 books a year
 2. Podcasts
-3. Resume Design
-4. Is analysis a hobby? Yeah that's me
-5. Teaching (I am a TA for <a href="https://www.emziniwecode.com/">EmziniWeCode</a>)
-6. Rocket Science ~ Ask me anything about Falcon 9, Falcon Heavy, Starship, Dragon, New Glen, New Sherpard, Delta IV Heavy) and Space.
-7. Healthcare and fitness fanatic ~ BMI of 19.3
-8. Hacktivism ~ Data & Privacy Rights, Climate Change & Environment, Equal Rights
-9. Charitable causes & community service
-10. Business & Entrepreneurship (<a href="http://actinafrica.com/">ACT In Africa</a> & Startup Weekend can attest to that)
-11. Fighter Jets notably the Lockheed Martin F-22 Raptor, Lockheed Martin F-35 Lightning II, and of course the Russian Sukhoi Su-57
-12. Chess
-13. Sight-seeing
-14. I love hackathons
-15. I cycle
-16. I run 5km three days a week.
-17. Building stuff
-18. F1
-19. Writing and journaling. Check <a href="https://medium.com/@andilejaden">here</a>
+3. Audiobooks
+4. Resume Design
+5. Is analysis a hobby? Yeah that's me
+6. Teaching (I am a TA for <a href="https://www.emziniwecode.com/">EmziniWeCode</a>)
+7. Rocket Science ~ Ask me anything about Falcon 9, Falcon Heavy, Starship, Dragon, New Glen, New Sherpard, Delta IV Heavy) and Space.
+8. Healthcare and fitness fanatic ~ BMI of 19.3
+9. Hacktivism ~ Data & Privacy Rights, Climate Change & Environment, Equal Rights
+10. Charitable causes & community service
+11. Business & Entrepreneurship (<a href="http://actinafrica.com/">ACT In Africa</a> & Startup Weekend can attest to that)
+12. Fighter Jets notably the Lockheed Martin F-22 Raptor, Lockheed Martin F-35 Lightning II, and of course the Russian Sukhoi Su-57
+13. Chess
+14. Sight-seeing
+15. I love hackathons
+16. I cycle
+17. I run 5km three days a week.
+18. Building stuff
+19. F1
+20. Writing and journaling. Check <a href="https://medium.com/@andilejaden">here</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xeroxzen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
 [![xeroxzen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xeroxzen&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
