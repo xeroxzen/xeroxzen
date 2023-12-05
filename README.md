@@ -59,7 +59,7 @@ I owe the success of my insightful journey in Tech to several people who have he
 17. I run 5km three days a week.
 18. Building stuff
 19. F1
-20. Writing and journaling. Check <a href="https://medium.com/@andilejaden">here</a>
+20. Writing and journaling. Check <a href="https://medium.com/@andilejaden">here</a> and <a href="https://rooibosradar.com/">here</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xeroxzen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
 [![xeroxzen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xeroxzen&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
