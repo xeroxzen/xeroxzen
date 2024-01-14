@@ -62,7 +62,7 @@ I owe the success of my insightful journey in Tech to several people who have he
 20. Writing and journaling. Check <a href="https://medium.com/@andilejaden">here</a> and <a href="https://rooibosradar.com/">here</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xeroxzen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
-[![xeroxzen's wakatime stats](<a href="https://wakatime.com"><img src="https://wakatime.com/share/@xeroxzen/bbef513c-2f45-48ec-a214-f8d3e5ccb050.png" /></a>)
+[![xeroxzen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xeroxzen&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Key Competences
 
