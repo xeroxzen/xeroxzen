@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/xeroxzen?logo=GitHub&logoColor=black) ![GitHub User's stars](https://img.shields.io/github/stars/xeroxzen?affiliations=OWNER&label=GitHub%20Stars&logo=GitHub&logoColor=black) ![GitHub top language](https://img.shields.io/github/languages/top/xeroxzen/100DaysOfCode?logo=JavaScript) ![PyPI - Downloads](https://img.shields.io/pypi/dd/pycountrycode?color=success&logo=pypi) ![PyPI - License](https://img.shields.io/pypi/l/genuine-fake?label=Genuine%20Fake&logo=Pypi) ![PyPI](https://img.shields.io/pypi/v/genuine-fake?label=Genuine%20Fake&logo=PYPI) ![PyPI](https://img.shields.io/pypi/v/pycountrycode?label=Pycountrycode&logo=PYPI) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xeroxzen/blogger?logo=github) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xeroxzen/genuine-fake?logo=github) ![GitHub top language](https://img.shields.io/github/languages/top/xeroxzen/genuine-fake?label=Python&logo=python&logoColor=yellow)
 
-<img src="https://camo.githubusercontent.com/ed290926602d17585f0b981a4ffec71baddb88fec8e4e7288d4ec0a912f388ba/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61726a756e6376696e6f64267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562"/>
+<!--<img src="https://camo.githubusercontent.com/ed290926602d17585f0b981a4ffec71baddb88fec8e4e7288d4ec0a912f388ba/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61726a756e6376696e6f64267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562"/>-->
     
 ## Software Engineer | Problem Solver | Lifelong Learner
 
