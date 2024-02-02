@@ -6,20 +6,24 @@
 
 # Who am I
     
-First and foremost I am a problem solver and an engineer second. I'm the founder and CEO of a little-known tech start-up, QuStack, Inc. I’m also a Teaching Assistant at Emzini We Code, where I assist students in writing clean code following the standards of universities such as UC Berkeley, MIT, and Stanford.
+Software Engineer | Problem Solver | Lifelong Learner
+Building innovative solutions by day, empowering the next generation by night.
 
-I am also a Data Engineer for Prescient, a risk management and intelligence services firm based in Chicago, Illinois, USA. 
-    
-My background is in Information Technology with an emphasis on Software  Engineering. I spent my four years of college working for startups developing different types of applications ranging from web apps and web APIs for medical insurance companies, to building solutions for city management, hacking it at hackathons, teaching code, and building my portfolio as a software developer. I also tried to launch not one, but two startups of my own with QuStack being the third. 
-    
-My mentor Eric Khumalo who founded Emzini We Code while working at Twitter brought me on board as a Teaching Assistant for Emzini We Code. The idea behind Emzini We Code is to export Silicon Valley engineering expertise as it is done in US colleges such as UC Berkeley, MIT, and Stanford to Africa. Here, I assist students in understanding coding paradigms, program interpretation, algorithmic thinking, and problem-solving using code. 
+I'm a driven software engineer with a passion for crafting elegant code and tackling complex problems. By day, I'm building data pipelines and wrangling intelligence at a risk management firm. By night, I'm not only fueling future tech talent as a Teaching Assistant at a leading coding school, but I'm also actively involved in building my own technology startup, QuStack, aiming to solve some of Africa's most pertinent problems in fraud-free house searching, healthcare technology, and fintech.
 
-Lately, working on data engineering problems has kept me occupied alongside building solutions for the healthcare industry under the start-up I co-founded.
-    
-Outside of work, I participate in hackathons and contests - mostly doing web apps and Conversational AI development as a way to learn it more deeply. I tutor programming to College students preparing for their exams, mainly in C++, Python, and JavaScript. I also mentor a few coding enthusiasts who marvel at my journey.
-I am looking forward to being a budding conference speaker.
-    
-If you find my story interesting enough and you’d like to connect for collaboration, don’t hesitate to reach out.
+Technical Rockstar
+
+Data Whisperer: My daily grind involves parsing, cleaning, analyzing, and wrangling diverse data sets. I build efficient Python scripts and robust data pipelines to unlock hidden insights.
+Full-Stack Fluency: Web apps, APIs, medical solutions, city management systems - you name it, I've built it. Adept in various languages and frameworks, I thrive in dynamic environments.
+Hackathon Hero: A constant learner, I push my boundaries through hackathons and contests, exploring Conversational AI and web app development.
+
+### Beyond the Code
+Empowering the Future: I mentor aspiring engineers, sharing my journey and the invaluable lessons learned from startups and the knowledge I have gathered along the way from some of the brightest and best thinkers and problem solvers.
+Sharing the Knowledge: I tutor college students, helping them master C++, Python, and JavaScript, preparing them for success.
+Aspiring Speaker: I am ready to take the stage and inspire others with my experiences and insights.
+Looking for: Collaborations, challenges, and opportunities to make a real impact.
+
+Connect with me! [LinkedIn: https://www.linkedin.com/in/andile-jaden-mbele/]
 
 ### Most grateful for!
 I owe the success of my insightful journey in Tech to several people who have helped me in so many ways. I cannot mention them all, however, I will have to give a shoutout to my mother who gave me her entire August 2017 salary so I can buy myself a laptop and start writing code, my uncle <b>Mangosuthu Mbele</b> who is my mentor, <a href="https://vuyisile.com/">Vuyisile Ndlovu</a>, the mentor who has served as the go-to person whenever I needed some guidance, the guiding hand ever since I got in tech and my most significant influence on why I love Python. I am forever grateful to <a href="https://www.linkedin.com/in/erickhumalo/">Eric Khumalo</a> and <a href="https://emziniwecode.com/">EmziniWeCode</a> who have pushed me thus far. I am eternally grateful for the friends I have made through Emzini We Code.  
@@ -46,7 +50,7 @@ I owe the success of my insightful journey in Tech to several people who have he
 4. Resume Design
 5. Is analysis a hobby? Yeah that's me
 6. Teaching (I am a TA for <a href="https://www.emziniwecode.com/">EmziniWeCode</a>)
-7. Rocket Science ~ Ask me anything about Soyuz, Falcon 9, Falcon Heavy, Starship, Dragon, New Glen, New Sherpard, Delta IV Heavy) and Space.
+7. Rocket Science ~ Ask me anything about Soyuz, Falcon 9, Falcon Heavy, Starship, Dragon, New Glen, New Sherpard, or Delta IV Heavy) and Space.
 8. Healthcare and fitness fanatic ~ BMI of 19.3
 9. Hacktivism ~ Data & Privacy Rights
 10. Charitable causes & community service
