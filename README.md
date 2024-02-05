@@ -20,6 +20,9 @@ I'm a driven software engineer with a passion for crafting elegant code and tack
 - **Empowering the Future**: I mentor aspiring engineers, sharing my journey and the invaluable lessons learned from startups and the knowledge I have gathered along the way from some of the brightest and best thinkers and problem solvers.
 - **Sharing the Knowledge**: I tutor college students, helping them master C++, Python, and JavaScript, preparing them for success.
 - **Aspiring Speaker**: I am ready to take the stage and inspire others with my experiences and insights.
+- **Information Catalyst**
+    - Rooibos Radar (Co-founder): Curating and sharing the latest innovations and trends in technology through our newsletter (https://rooibosradar.com/).
+    - Medium Blog: Regularly publish insights and analysis on tech, opinions and thoughts (https://medium.com/@andilembele).
 - **Looking for**: Collaborations, challenges, and opportunities to make a real impact.
 
 **Connect with me!** [LinkedIn: https://www.linkedin.com/in/andile-jaden-mbele/]
