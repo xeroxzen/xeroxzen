@@ -54,7 +54,7 @@ I owe the success of my insightful journey in Tech to several people who have he
 5. Is analysis a hobby? Yeah that's me
 6. Teaching (I am a TA for <a href="https://www.emziniwecode.com/">EmziniWeCode</a>)
 7. Rocket Science ~ Ask me anything about Soyuz, Falcon 9, Falcon Heavy, Starship, Dragon, New Glen, New Sherpard, or Delta IV Heavy) and Space.
-8. Healthcare and fitness fanatic ~ BMI of 19.3
+8. Healthcare and fitness fanatic ~ BMI of 20.7
 9. Hacktivism ~ Data & Privacy Rights
 10. Charitable causes & community service
 11. Business & Entrepreneurship (<a href="http://actinafrica.com/">ACT In Africa</a> & Startup Weekend can attest to that)
