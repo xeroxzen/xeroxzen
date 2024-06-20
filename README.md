@@ -13,7 +13,7 @@ I'm a driven software engineer with a passion for crafting elegant code and tack
 
 ### Technical Rockstar
 
-- **Data Whisperer**: My daily grind involves parsing, cleaning, analyzing, and wrangling diverse data sets. I build efficient Python scripts and robust data pipelines to unlock hidden insights.
+- **Data Whisperer**: My daily grind involves parsing, cleaning, analyzing, reverse engineering, packet sniffing and wrangling diverse data sets. I build efficient Python scripts and robust data pipelines to unlock hidden insights.
 - **Full-Stack Fluency**: Web apps, APIs, medical solutions, city management systems - you name it, I've built it. Adept in various languages and frameworks, I thrive in dynamic environments.
 - **Hackathon Hero**: A constant learner, I push my boundaries through hackathons and contests, exploring Conversational AI and web app development.
 
