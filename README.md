@@ -71,14 +71,7 @@ I owe the success of my insightful journey in Tech to several people who have he
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xeroxzen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
 [![xeroxzen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xeroxzen&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🚀 Tech Stack
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-
-# 👨‍💻 Andile Jaden Mbele – Developer Portfolio
+# 👨‍💻 Portfolio
 
 ## 🔥 Highlights
 <p align="left">
