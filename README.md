@@ -32,9 +32,9 @@ I'm a driven software engineer with a passion for crafting elegant code and tack
 I owe the success of my insightful journey in Tech to several people who have helped me in so many ways. I cannot mention them all, however, I will have to give a shoutout to my mother who gave me her entire August 2017 salary so I can buy myself a laptop and start writing code, my uncle <b>Mangosuthu Mbele</b> who is my mentor, <a href="https://vuyisile.com/">Vuyisile Ndlovu</a>, the mentor who has served as the go-to person whenever I needed some guidance, the guiding hand ever since I got in tech and my most significant influence on why I love Python. I am forever grateful to <a href="https://www.linkedin.com/in/erickhumalo/">Eric Khumalo</a> and <a href="https://emziniwecode.com/">EmziniWeCode</a> who have pushed me thus far. I am eternally grateful for the friends I have made through Emzini We Code.  
 
 ### Recent Projects
-1. <a href="https://pypi.org/project/Genuine-fake/">Genuine Fake</a>
-2. <a href="https://pypi.org/project/pycountrycode/">Pycountrycode</a>
-3. <a href="http://andilembele.netlify.app/">Personal Page</a>
+1. [Genuine Fake](https://pypi.org/project/Genuine-fake/) – Python package to generate realistic but fake user data.
+2. [Pycountrycode](https://pypi.org/project/pycountrycode/) – A tiny utility to work with country codes in Python.
+3. [Personal Page](http://andilembele.netlify.app/) – My online CV and project showcase.
 
 ### Industries interested in working in!
 1. Technology
@@ -77,3 +77,63 @@ I owe the success of my insightful journey in Tech to several people who have he
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Auth-F4B400?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
+
+### APIs & Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/AHP-795548?style=for-the-badge&logo=matrix&logoColor=white" />
+</p>
+
+### 📬 Let's Connect
+- Twitter: [@xeroxzen](https://twitter.com/xeroxzen)
+- LinkedIn: [Andile Jaden Mbele](https://www.linkedin.com/in/andile-jaden-mbele/)
+- Email: [andilembele@gmail.com](mailto:andilembele@gmail.com)
