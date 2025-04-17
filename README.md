@@ -78,7 +78,19 @@ I owe the success of my insightful journey in Tech to several people who have he
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
-### Languages
+# 👨‍💻 Andile Jaden Mbele – Developer Portfolio
+
+## 🔥 Highlights
+<p align="left">
+  <img src="https://img.shields.io/badge/Top%201%25%20Developer-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Jr.-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Top%205%20Wakatime%20Zimbabwe-000000?style=for-the-badge&logo=wakatime&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitWrapped%202024%20Top%201%25-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+## 🚀 Tech Stack
+
+### **Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -87,13 +99,13 @@ I owe the success of my insightful journey in Tech to several people who have he
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### Frontend
+### **Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### Backend
+### **Backend**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -101,7 +113,7 @@ I owe the success of my insightful journey in Tech to several people who have he
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-### Databases
+### **Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -109,14 +121,35 @@ I owe the success of my insightful journey in Tech to several people who have he
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### DevOps
+### **Cloud & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-### Tools
+### **Data & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### **AI / ML / NLP**
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/NLTK-9E9E9E?style=for-the-badge&logo=nltk&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge&logo=chatbot&logoColor=white" />
+</p>
+
+### **Tools & Platforms**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -127,11 +160,22 @@ I owe the success of my insightful journey in Tech to several people who have he
   <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
-### APIs & Architecture
+### **APIs & Architecture**
 <p align="left">
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/AHP-795548?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-MVC%2C%20Microservices%2C%20Event--Driven-blue?style=for-the-badge" />
 </p>
+
+## 🛠 Projects by Stack
+
+- 🧠 **Project Hawk** → AHP Logic, Pairwise Comparison, Vendor Decision Tool (Django + AHP + MVC)
+- 🧭 **Project Atlas** → Automated Seating Map System for Zimworx (React + Django + Google Maps API)
+- 💬 **Project Lumina** → AI Medical Chatbot on WhatsApp (FastAPI + Langchain + OpenAI + GCP)
+- 📊 **ChatInsight** → WhatsApp Chat Analyzer (FastAPI + Pandas + NLTK + Matplotlib)
+- 🏠 **Rent A Room** → Rental Marketplace (React + Express + MongoDB)
+
+---
 
 ### 📬 Let's Connect
 - Twitter: [@xeroxzen](https://twitter.com/xeroxzen)
