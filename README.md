@@ -26,8 +26,6 @@ I'm a driven software engineer with a passion for crafting elegant code and tack
     - Medium Blog: Regularly publish insights and analysis on tech, opinions and thoughts (https://medium.com/@andilembele).
 - **Looking for**: Collaborations, challenges, and opportunities to make a real impact.
 
-**Connect with me!** [LinkedIn: https://www.linkedin.com/in/andile-jaden-mbele/]
-
 ### Most grateful for!
 I owe the success of my insightful journey in Tech to several people who have helped me in so many ways. I cannot mention them all, however, I will have to give a shoutout to my mother who gave me her entire August 2017 salary so I can buy myself a laptop and start writing code, my uncle <b>Mangosuthu Mbele</b> who is my mentor, <a href="https://vuyisile.com/">Vuyisile Ndlovu</a>, the mentor who has served as the go-to person whenever I needed some guidance, the guiding hand ever since I got in tech and my most significant influence on why I love Python. I am forever grateful to <a href="https://www.linkedin.com/in/erickhumalo/">Eric Khumalo</a> and <a href="https://emziniwecode.com/">EmziniWeCode</a> who have pushed me thus far. I am eternally grateful for the friends I have made through Emzini We Code.  
 
@@ -163,10 +161,10 @@ I owe the success of my insightful journey in Tech to several people who have he
 ## 🛠 Projects by Stack
 
 - 🧠 **Project Hawk** → AHP Logic, Pairwise Comparison, Vendor Decision Tool (Django + AHP + MVC)
-- 🧭 **Project Atlas** → Automated Seating Map System for Zimworx (React + Django + Google Maps API)
+- 🧭 **Project Atlas** → Automated Seating Map System for Zimworx (React + Django)
 - 💬 **Project Lumina** → AI Medical Chatbot on WhatsApp (FastAPI + Langchain + OpenAI + GCP)
 - 📊 **ChatInsight** → WhatsApp Chat Analyzer (FastAPI + Pandas + NLTK + Matplotlib)
-- 🏠 **Rent A Room** → Rental Marketplace (React + Express + MongoDB)
+- 🏠 **Rent A Room** → Rental Marketplace (React + Express + MongoDB + Google Maps API + GCP + Google Auth + Paynow Payments)
 
 ---
 
