@@ -169,6 +169,6 @@ I owe the success of my insightful journey in Tech to several people who have he
 ---
 
 ### 📬 Let's Connect
-- Twitter: [@xeroxzen](https://twitter.com/xeroxzen)
+- Twitter: [@andilejaden](https://x.com/andilejaden)
 - LinkedIn: [Andile Jaden Mbele](https://www.linkedin.com/in/andile-jaden-mbele/)
-- Email: [andilembele@gmail.com](mailto:andilembele@gmail.com)
+- Email: [andilembele020@gmail.com](mailto:andilembele020@gmail.com)
