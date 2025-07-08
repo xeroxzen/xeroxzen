@@ -162,9 +162,9 @@ I owe the success of my insightful journey in Tech to several people who have he
 
 - 🧠 **Project Hawk** → AHP Logic, Pairwise Comparison, Vendor Decision Tool (Django + AHP + MVC)
 - 🧭 **Project Atlas** → Automated Seating Map System for Zimworx (React + Django)
-- 💬 **Project Lumina** → AI Medical Chatbot on WhatsApp (FastAPI + Langchain + OpenAI + GCP)
+- 💬 **Lumina** → AI Medical Chatbot on WhatsApp (FastAPI + Langchain + OpenAI + GCP)
 - 📊 **ChatInsight** → WhatsApp Chat Analyzer (FastAPI + Pandas + NLTK + Matplotlib)
-- 🏠 **Rent A Room** → Rental Marketplace (React + Express + MongoDB + Google Maps API + GCP + Google Auth + Paynow Payments)
+- 🏠 **Spot On Rent** → Rental Marketplace (React + Express + MongoDB + Google Maps API + GCP + Google Auth + Paynow Payments)
 
 ---
 
