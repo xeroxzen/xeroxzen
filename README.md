@@ -9,7 +9,7 @@
 
 Building innovative solutions by day, empowering the next generation by night.
 
-I'm a driven software engineer with a passion for crafting elegant code and tackling complex problems. By day, I'm building data pipelines and wrangling intelligence at a risk management firm. By night, I'm not only fueling future tech talent as a Teaching Assistant at a leading coding school, but I'm also actively involved in building my own technology startup, Vectra Dynamics, aiming to solve some of Africa's most pertinent problems in fraud-free house searching, healthcare technology, and fintech.
+I'm a driven software engineer with a passion for crafting elegant code and tackling complex problems. By day, I'm building data pipelines and wrangling intelligence at a risk management firm. By night, I'm not only fueling future tech talent as an Instructor at a leading coding school, but I'm also actively involved in building my own technology startup, Vectra Dynamics, aiming to solve some of Africa's most pertinent problems in fraud-free house searching, healthcare technology, and fintech.
 
 ### Technical Rockstar
 
