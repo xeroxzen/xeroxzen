@@ -32,7 +32,7 @@ I owe the success of my insightful journey in Tech to several people who have he
 ### Recent Projects
 1. [Genuine Fake](https://pypi.org/project/Genuine-fake/) – Python package to generate realistic but fake user data.
 2. [Pycountrycode](https://pypi.org/project/pycountrycode/) – A tiny utility to work with country codes in Python.
-3. [Personal Page](http://andilembele.netlify.app/) – My online CV and project showcase.
+3. [Personal Website](https://andilembele.com/) – Personal Website.
 
 ### Industries interested in working in!
 1. Technology
